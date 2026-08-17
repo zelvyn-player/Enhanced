@@ -1,0 +1,8 @@
+<!-- app/src/main/res/values/themes.xml -->
+<resources>
+    <style name="Theme.ZelvynPlayer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#07090E</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+    </style>
+</resources>
